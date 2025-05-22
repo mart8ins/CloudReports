@@ -1,0 +1,13 @@
+.request_logs {
+    margin-top: 50px;
+    width: 95vw;
+}
+
+.request_logs h2 {
+    text-align: left;
+}
+
+.log-table {
+    width: 100%;
+}
+
