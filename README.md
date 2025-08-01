@@ -1,0 +1,1 @@
+Small app built with React and .NET Core backend. Azure function fetches weather data from openweathermap.org API for 3 cities and stores data into SQL database. UI pages for fetching logs and page for fetched data using chart (min/max temp., country, city, last update). Date and time filtering for chart graph.
